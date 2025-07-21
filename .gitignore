@@ -1,0 +1,38 @@
+# Angular build and dependencies
+/node_modules/
+/dist/
+/tmp/
+
+# IDE and OS files
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+
+# Environment files
+/src/environments/environment*.ts
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compiled output
+/**/*.js
+/**/*.js.map
+
+# Coverage reports
+/coverage/
+
+# Misc
+/.angular/cache/
+
+# Tailwind JIT cache
+/.tailwind-cache/
+
+# Optional: ignore package-lock and yarn.lock if not needed
+# package-lock.json
+# yarn.lock
+
+# Optional: ignore test output
+/test-results/
