@@ -36,3 +36,10 @@ yarn-error.log*
 
 # Optional: ignore test output
 /test-results/
+*/node_modules/
+# Cypress
+/cypress/videos/
+/cypress/screenshots/
+/cypress/report/
+/cypress/results/
+cypress.env.json

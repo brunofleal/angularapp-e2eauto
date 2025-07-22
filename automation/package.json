@@ -1,0 +1,20 @@
+{
+  "name": "my-cypress-tests",
+  "version": "1.0.0",
+  "description": "Cypress tests for web application",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "e2e"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.0.0" 
+  }
+}
